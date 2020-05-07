@@ -18,6 +18,9 @@ we use docker to containeriz the app and kubernetes to deploy and scale our dock
 - the upload_docker.sh is use to upload docker image in docker hub.
 - the run_kubernetes  file is use to deploy our docker image 
 
-CicleCI status badge
+### CicleCI status badge
+
+
+
 
 
