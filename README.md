@@ -1,4 +1,4 @@
-
+﻿
 ## Project Overview
 
 This a flask project that predict housing prices in Boston according to serveral features. 
@@ -19,8 +19,6 @@ we use docker to containeriz the app and kubernetes to deploy and scale our dock
 - the run_kubernetes  file is use to deploy our docker image 
 
 ### CicleCI status badge
-
-
 
 
 
