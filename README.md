@@ -20,5 +20,6 @@ we use docker to containeriz the app and kubernetes to deploy and scale our dock
 
 ### CicleCI status badge
 
+[![CircleCI](https://circleci.com/gh/thewindcolince/udacity_microservices.svg?style=svg)](https://circleci.com/gh/thewindcolince/udacity_microservices)
 
 
