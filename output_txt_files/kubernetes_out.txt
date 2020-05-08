@@ -1,4 +1,9 @@
-<paste log output from Kubernetes-mediated prediction, here>
+
+    my pods name and status 
+myapp   1/1     Running   1          2d11h
+
+    port fowarding and handling text
+
 Forwarding from 127.0.0.1:8080 -> 80
 Forwarding from [::1]:8080 -> 80
 Handling connection for 8080
